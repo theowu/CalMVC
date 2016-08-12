@@ -7,7 +7,7 @@
 //
 
 import Foundation
-//Model
+
 class CalculatorBrain {
     
     private enum Op: CustomStringConvertible {
